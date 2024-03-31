@@ -8,15 +8,16 @@
 
 <br />
 <br />
-<br />
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ynsrttp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunus-ortatepe-779947129/)](https://www.linkedin.com/in/yunus-ortatepe-779947129/)
 [![Gmail Badge](https://img.shields.io/badge/-ynsrttp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eneskaraosman53@gmail.com)](mailto:yunusortatepee@gmail.com)
 
 <br />
-<br />
+
 
 **🔧 Languages and Tools:**
+
+<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
