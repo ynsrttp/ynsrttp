@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other Frontend developers 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Frontend development
 
-[<img align="left" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="24px" src="https://images.app.goo.gl/6BZ3qpT1syi3SizQ9" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
