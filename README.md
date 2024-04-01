@@ -10,7 +10,7 @@
 <br />
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ynsrttp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunus-ortatepe-779947129/)](https://www.linkedin.com/in/yunus-ortatepe-779947129/)
-[![Gmail Badge](https://img.shields.io/badge/-ynsrttp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eneskaraosman53@gmail.com)](mailto:yunusortatepee@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ynsrttp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yunusortatepee@gmail.com)](mailto:yunusortatepee@gmail.com)
 
 <br />
 
